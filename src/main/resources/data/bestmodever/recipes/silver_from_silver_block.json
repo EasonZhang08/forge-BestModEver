@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bestmodever:silver_block"
+    }
+  ],
+  "result": {
+    "item": "bestmodever:silver",
+    "count": 9
+  }
+}

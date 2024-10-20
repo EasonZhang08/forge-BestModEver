@@ -1,9 +1,14 @@
 {
   "item.bestmodever.sapphire": "Sapphire",
   "item.bestmodever.raw_sapphire": "Raw Sapphire",
+  "item.bestmodever.silver": "Silver",
+  "item.bestmodever.raw_silver": "Raw Silver",
+
 
   "block.bestmodever.sapphire_block": "Sapphire Block",
   "block.bestmodever.raw_sapphire_block": "Sapphire Ore",
+  "block.bestmodever.silver_block": "Silver Block",
+  "block.bestmodever.raw_silver_block": "Silver Ore",
 
 
   "creativetab.best_mod_ever_tab": "Best Mod Ever"

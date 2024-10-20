@@ -15,6 +15,10 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RAW_SAPPHIRE = ITEMS.register("raw_sapphire",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SILVER = ITEMS.register("silver",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_SILVER = ITEMS.register("raw_silver",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

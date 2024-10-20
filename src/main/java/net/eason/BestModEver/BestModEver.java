@@ -57,6 +57,8 @@ public class BestModEver
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS){
             event.accept(ModItems.SAPPHIRE);
             event.accept(ModItems.RAW_SAPPHIRE);
+            event.accept(ModItems.SILVER);
+            event.accept(ModItems.RAW_SILVER);
         }
     }
 

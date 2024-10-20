@@ -25,6 +25,12 @@ public class ModBlocks {
     public static final RegistryObject<Block> RAW_SAPPHIRE_BLOCK = registerBlock("raw_sapphire_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.STONE)));
 
+    public static final RegistryObject<Block> SILVER_BLOCK = registerBlock("silver_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.METAL)));
+
+    public static final RegistryObject<Block> RAW_SILVER_BLOCK = registerBlock("raw_silver_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.STONE)));
+
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block){
