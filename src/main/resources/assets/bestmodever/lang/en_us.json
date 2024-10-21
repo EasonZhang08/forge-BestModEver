@@ -4,11 +4,18 @@
   "item.bestmodever.silver": "Silver",
   "item.bestmodever.raw_silver": "Raw Silver",
 
+  "item.bestmodever.metal_detector": "Metal Detector",
 
   "block.bestmodever.sapphire_block": "Sapphire Block",
   "block.bestmodever.raw_sapphire_block": "Sapphire Ore",
   "block.bestmodever.silver_block": "Silver Block",
   "block.bestmodever.raw_silver_block": "Silver Ore",
+  "block.bestmodever.sapphire_ore": "Sapphire Ore",
+  "block.bestmodever.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.bestmodever.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+  "block.bestmodever.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.bestmodever.silver_ore": "Silver Ore",
+  "block.bestmodever.deepslate_silver_ore": "Deepslate Silver Ore",
 
 
   "creativetab.best_mod_ever_tab": "Best Mod Ever"

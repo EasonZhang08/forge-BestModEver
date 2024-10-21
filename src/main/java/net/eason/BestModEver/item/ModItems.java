@@ -1,6 +1,7 @@
 package net.eason.BestModEver.item;
 
 import net.eason.BestModEver.BestModEver;
+import net.eason.BestModEver.item.custom.MetalDetecterItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -19,6 +20,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RAW_SILVER = ITEMS.register("raw_silver",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
+            () -> new MetalDetecterItem(new Item.Properties().durability(100)));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures":  {
+    "all": "bestmodever:block/deepslate_silver_ore"
+  }
+}

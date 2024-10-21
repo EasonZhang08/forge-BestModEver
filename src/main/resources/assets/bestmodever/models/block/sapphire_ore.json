@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures":  {
+    "all": "bestmodever:block/sapphire_ore"
+  }
+}
